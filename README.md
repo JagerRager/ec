@@ -6,7 +6,7 @@ If you are running this project by cloning a GitHub repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone repo-url
+   git clone https://github.com/JagerRager/ec.git
    ```
 2. Ensure you have Python 3.7 or higher installed.  
    You can verify your Python version with:
