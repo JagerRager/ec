@@ -24,7 +24,7 @@ No additional libraries or environment setup are needed — this project runs wi
 
 ## How to Run
 
-If you already have the `inmemory_db.py` file (or after cloning):
+After cloning the repository, or if you already have the `inmemory_db.py` file:
 
 1. Open a terminal in the project directory.
 
